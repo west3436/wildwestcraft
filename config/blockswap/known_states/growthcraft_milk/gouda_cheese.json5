@@ -1,0 +1,905 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "1",
+			"slicesbottom": "0",
+			"facing": "north"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "2",
+			"slicesbottom": "0",
+			"facing": "north"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "3",
+			"slicesbottom": "0",
+			"facing": "north"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "4",
+			"slicesbottom": "0",
+			"facing": "north"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "0",
+			"slicesbottom": "1",
+			"facing": "north"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "1",
+			"slicesbottom": "1",
+			"facing": "north"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "2",
+			"slicesbottom": "1",
+			"facing": "north"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "3",
+			"slicesbottom": "1",
+			"facing": "north"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "4",
+			"slicesbottom": "1",
+			"facing": "north"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "0",
+			"slicesbottom": "2",
+			"facing": "north"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "1",
+			"slicesbottom": "2",
+			"facing": "north"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "2",
+			"slicesbottom": "2",
+			"facing": "north"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "3",
+			"slicesbottom": "2",
+			"facing": "north"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "4",
+			"slicesbottom": "2",
+			"facing": "north"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "0",
+			"slicesbottom": "3",
+			"facing": "north"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "1",
+			"slicesbottom": "3",
+			"facing": "north"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "2",
+			"slicesbottom": "3",
+			"facing": "north"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "3",
+			"slicesbottom": "3",
+			"facing": "north"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "4",
+			"slicesbottom": "3",
+			"facing": "north"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "0",
+			"slicesbottom": "4",
+			"facing": "north"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "1",
+			"slicesbottom": "4",
+			"facing": "north"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "2",
+			"slicesbottom": "4",
+			"facing": "north"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "3",
+			"slicesbottom": "4",
+			"facing": "north"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "4",
+			"slicesbottom": "4",
+			"facing": "north"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "0",
+			"slicesbottom": "0",
+			"facing": "south"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "1",
+			"slicesbottom": "0",
+			"facing": "south"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "2",
+			"slicesbottom": "0",
+			"facing": "south"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "3",
+			"slicesbottom": "0",
+			"facing": "south"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "4",
+			"slicesbottom": "0",
+			"facing": "south"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "0",
+			"slicesbottom": "1",
+			"facing": "south"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "1",
+			"slicesbottom": "1",
+			"facing": "south"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "2",
+			"slicesbottom": "1",
+			"facing": "south"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "3",
+			"slicesbottom": "1",
+			"facing": "south"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "4",
+			"slicesbottom": "1",
+			"facing": "south"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "0",
+			"slicesbottom": "2",
+			"facing": "south"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "1",
+			"slicesbottom": "2",
+			"facing": "south"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "2",
+			"slicesbottom": "2",
+			"facing": "south"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "3",
+			"slicesbottom": "2",
+			"facing": "south"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "4",
+			"slicesbottom": "2",
+			"facing": "south"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "0",
+			"slicesbottom": "3",
+			"facing": "south"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "1",
+			"slicesbottom": "3",
+			"facing": "south"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "2",
+			"slicesbottom": "3",
+			"facing": "south"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "3",
+			"slicesbottom": "3",
+			"facing": "south"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "4",
+			"slicesbottom": "3",
+			"facing": "south"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "0",
+			"slicesbottom": "4",
+			"facing": "south"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "1",
+			"slicesbottom": "4",
+			"facing": "south"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "2",
+			"slicesbottom": "4",
+			"facing": "south"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "3",
+			"slicesbottom": "4",
+			"facing": "south"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "4",
+			"slicesbottom": "4",
+			"facing": "south"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "0",
+			"slicesbottom": "0",
+			"facing": "west"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "1",
+			"slicesbottom": "0",
+			"facing": "west"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "2",
+			"slicesbottom": "0",
+			"facing": "west"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "3",
+			"slicesbottom": "0",
+			"facing": "west"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "4",
+			"slicesbottom": "0",
+			"facing": "west"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "0",
+			"slicesbottom": "1",
+			"facing": "west"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "1",
+			"slicesbottom": "1",
+			"facing": "west"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "2",
+			"slicesbottom": "1",
+			"facing": "west"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "3",
+			"slicesbottom": "1",
+			"facing": "west"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "4",
+			"slicesbottom": "1",
+			"facing": "west"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "0",
+			"slicesbottom": "2",
+			"facing": "west"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "1",
+			"slicesbottom": "2",
+			"facing": "west"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "2",
+			"slicesbottom": "2",
+			"facing": "west"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "3",
+			"slicesbottom": "2",
+			"facing": "west"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "4",
+			"slicesbottom": "2",
+			"facing": "west"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "0",
+			"slicesbottom": "3",
+			"facing": "west"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "1",
+			"slicesbottom": "3",
+			"facing": "west"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "2",
+			"slicesbottom": "3",
+			"facing": "west"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "3",
+			"slicesbottom": "3",
+			"facing": "west"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "4",
+			"slicesbottom": "3",
+			"facing": "west"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "0",
+			"slicesbottom": "4",
+			"facing": "west"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "1",
+			"slicesbottom": "4",
+			"facing": "west"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "2",
+			"slicesbottom": "4",
+			"facing": "west"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "3",
+			"slicesbottom": "4",
+			"facing": "west"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "4",
+			"slicesbottom": "4",
+			"facing": "west"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "0",
+			"slicesbottom": "0",
+			"facing": "east"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "1",
+			"slicesbottom": "0",
+			"facing": "east"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "2",
+			"slicesbottom": "0",
+			"facing": "east"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "3",
+			"slicesbottom": "0",
+			"facing": "east"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "4",
+			"slicesbottom": "0",
+			"facing": "east"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "0",
+			"slicesbottom": "1",
+			"facing": "east"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "1",
+			"slicesbottom": "1",
+			"facing": "east"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "2",
+			"slicesbottom": "1",
+			"facing": "east"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "3",
+			"slicesbottom": "1",
+			"facing": "east"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "4",
+			"slicesbottom": "1",
+			"facing": "east"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "0",
+			"slicesbottom": "2",
+			"facing": "east"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "1",
+			"slicesbottom": "2",
+			"facing": "east"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "2",
+			"slicesbottom": "2",
+			"facing": "east"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "3",
+			"slicesbottom": "2",
+			"facing": "east"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "4",
+			"slicesbottom": "2",
+			"facing": "east"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "0",
+			"slicesbottom": "3",
+			"facing": "east"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "1",
+			"slicesbottom": "3",
+			"facing": "east"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "2",
+			"slicesbottom": "3",
+			"facing": "east"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "3",
+			"slicesbottom": "3",
+			"facing": "east"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "4",
+			"slicesbottom": "3",
+			"facing": "east"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "0",
+			"slicesbottom": "4",
+			"facing": "east"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "1",
+			"slicesbottom": "4",
+			"facing": "east"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "2",
+			"slicesbottom": "4",
+			"facing": "east"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "3",
+			"slicesbottom": "4",
+			"facing": "east"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"slicestop": "4",
+			"slicesbottom": "4",
+			"facing": "east"
+		},
+		"Name": "growthcraft_milk:gouda_cheese"
+	}
+]

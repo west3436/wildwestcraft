@@ -1,0 +1,13 @@
+name = "Old Guns"
+filename = "OldGunsV2-1.5.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4541c3de040b03fdf88d547488bb1201646b61f6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5645483
+project-id = 494230

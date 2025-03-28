@@ -1,0 +1,1444 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "plain",
+			"facing": "north",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "heavy",
+			"facing": "north",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "heavy",
+			"facing": "north",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "turned",
+			"facing": "north",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "turned",
+			"facing": "north",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "pinched",
+			"facing": "north",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "pinched",
+			"facing": "north",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"facing": "north",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"facing": "north",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "quad",
+			"facing": "north",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "quad",
+			"facing": "north",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "plain",
+			"facing": "east",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "plain",
+			"facing": "east",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "heavy",
+			"facing": "east",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "heavy",
+			"facing": "east",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "turned",
+			"facing": "east",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "turned",
+			"facing": "east",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "pinched",
+			"facing": "east",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "pinched",
+			"facing": "east",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"facing": "east",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"facing": "east",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "quad",
+			"facing": "east",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "quad",
+			"facing": "east",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "plain",
+			"facing": "south",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "plain",
+			"facing": "south",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "heavy",
+			"facing": "south",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "heavy",
+			"facing": "south",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "turned",
+			"facing": "south",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "turned",
+			"facing": "south",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "pinched",
+			"facing": "south",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "pinched",
+			"facing": "south",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"facing": "south",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"facing": "south",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "quad",
+			"facing": "south",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "quad",
+			"facing": "south",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "plain",
+			"facing": "west",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "plain",
+			"facing": "west",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "heavy",
+			"facing": "west",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "heavy",
+			"facing": "west",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "turned",
+			"facing": "west",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "turned",
+			"facing": "west",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "pinched",
+			"facing": "west",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "pinched",
+			"facing": "west",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"facing": "west",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"facing": "west",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "quad",
+			"facing": "west",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "quad",
+			"facing": "west",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "plain",
+			"facing": "up",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "plain",
+			"facing": "up",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "heavy",
+			"facing": "up",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "heavy",
+			"facing": "up",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "turned",
+			"facing": "up",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "turned",
+			"facing": "up",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "pinched",
+			"facing": "up",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "pinched",
+			"facing": "up",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"facing": "up",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"facing": "up",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "quad",
+			"facing": "up",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "quad",
+			"facing": "up",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "plain",
+			"facing": "down",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "plain",
+			"facing": "down",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "heavy",
+			"facing": "down",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "heavy",
+			"facing": "down",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "turned",
+			"facing": "down",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "turned",
+			"facing": "down",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "pinched",
+			"facing": "down",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "pinched",
+			"facing": "down",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"facing": "down",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"facing": "down",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "quad",
+			"facing": "down",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "quad",
+			"facing": "down",
+			"conditional": "true"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "plain",
+			"facing": "north",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "plain",
+			"facing": "north",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "heavy",
+			"facing": "north",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "heavy",
+			"facing": "north",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "turned",
+			"facing": "north",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "turned",
+			"facing": "north",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "pinched",
+			"facing": "north",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "pinched",
+			"facing": "north",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"facing": "north",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"facing": "north",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "quad",
+			"facing": "north",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "quad",
+			"facing": "north",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "plain",
+			"facing": "east",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "plain",
+			"facing": "east",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "heavy",
+			"facing": "east",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "heavy",
+			"facing": "east",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "turned",
+			"facing": "east",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "turned",
+			"facing": "east",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "pinched",
+			"facing": "east",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "pinched",
+			"facing": "east",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"facing": "east",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"facing": "east",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "quad",
+			"facing": "east",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "quad",
+			"facing": "east",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "plain",
+			"facing": "south",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "plain",
+			"facing": "south",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "heavy",
+			"facing": "south",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "heavy",
+			"facing": "south",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "turned",
+			"facing": "south",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "turned",
+			"facing": "south",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "pinched",
+			"facing": "south",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "pinched",
+			"facing": "south",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"facing": "south",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"facing": "south",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "quad",
+			"facing": "south",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "quad",
+			"facing": "south",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "plain",
+			"facing": "west",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "plain",
+			"facing": "west",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "heavy",
+			"facing": "west",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "heavy",
+			"facing": "west",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "turned",
+			"facing": "west",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "turned",
+			"facing": "west",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "pinched",
+			"facing": "west",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "pinched",
+			"facing": "west",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"facing": "west",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"facing": "west",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "quad",
+			"facing": "west",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "quad",
+			"facing": "west",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "plain",
+			"facing": "up",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "plain",
+			"facing": "up",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "heavy",
+			"facing": "up",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "heavy",
+			"facing": "up",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "turned",
+			"facing": "up",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "turned",
+			"facing": "up",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "pinched",
+			"facing": "up",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "pinched",
+			"facing": "up",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"facing": "up",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"facing": "up",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "quad",
+			"facing": "up",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "quad",
+			"facing": "up",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "plain",
+			"facing": "down",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "plain",
+			"facing": "down",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "heavy",
+			"facing": "down",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "heavy",
+			"facing": "down",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "turned",
+			"facing": "down",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "turned",
+			"facing": "down",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "pinched",
+			"facing": "down",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "pinched",
+			"facing": "down",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"facing": "down",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"facing": "down",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "quad",
+			"facing": "down",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "quad",
+			"facing": "down",
+			"conditional": "false"
+		},
+		"Name": "domum_ornamentum:post"
+	}
+]

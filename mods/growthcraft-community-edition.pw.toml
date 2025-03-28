@@ -1,0 +1,13 @@
+name = "Growthcraft Community Edition"
+filename = "growthcraft-1.20.1-9.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "94b32bad486dcfd680ca49cb299d8b18934bb780"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5662802
+project-id = 235092

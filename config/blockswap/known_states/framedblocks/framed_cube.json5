@@ -1,0 +1,770 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "true",
+			"solid": "true",
+			"reinforced": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"alt": "true"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "false",
+			"solid": "true",
+			"reinforced": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"alt": "true"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "true",
+			"solid": "false",
+			"reinforced": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"alt": "true"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "false",
+			"solid": "false",
+			"reinforced": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"alt": "true"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "true",
+			"solid": "true",
+			"reinforced": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"alt": "true"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "false",
+			"solid": "true",
+			"reinforced": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"alt": "true"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "true",
+			"solid": "false",
+			"reinforced": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"alt": "true"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "false",
+			"solid": "false",
+			"reinforced": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"alt": "true"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "true",
+			"solid": "true",
+			"reinforced": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"alt": "true"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "false",
+			"solid": "true",
+			"reinforced": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"alt": "true"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "true",
+			"solid": "false",
+			"reinforced": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"alt": "true"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "false",
+			"solid": "false",
+			"reinforced": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"alt": "true"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "true",
+			"solid": "true",
+			"reinforced": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"alt": "true"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "false",
+			"solid": "true",
+			"reinforced": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"alt": "true"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "true",
+			"solid": "false",
+			"reinforced": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"alt": "true"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "false",
+			"solid": "false",
+			"reinforced": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"alt": "true"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "true",
+			"solid": "true",
+			"reinforced": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"alt": "true"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "false",
+			"solid": "true",
+			"reinforced": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"alt": "true"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "true",
+			"solid": "false",
+			"reinforced": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"alt": "true"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "false",
+			"solid": "false",
+			"reinforced": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"alt": "true"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "true",
+			"solid": "true",
+			"reinforced": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"alt": "true"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "false",
+			"solid": "true",
+			"reinforced": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"alt": "true"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "true",
+			"solid": "false",
+			"reinforced": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"alt": "true"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "false",
+			"solid": "false",
+			"reinforced": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"alt": "true"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "true",
+			"solid": "true",
+			"reinforced": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"alt": "true"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "false",
+			"solid": "true",
+			"reinforced": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"alt": "true"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "true",
+			"solid": "false",
+			"reinforced": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"alt": "true"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "false",
+			"solid": "false",
+			"reinforced": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"alt": "true"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "true",
+			"solid": "true",
+			"reinforced": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"alt": "true"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "false",
+			"solid": "true",
+			"reinforced": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"alt": "true"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "true",
+			"solid": "false",
+			"reinforced": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"alt": "true"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "false",
+			"solid": "false",
+			"reinforced": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"alt": "true"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "true",
+			"solid": "true",
+			"reinforced": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"alt": "false"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "false",
+			"solid": "true",
+			"reinforced": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"alt": "false"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "true",
+			"solid": "false",
+			"reinforced": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"alt": "false"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "false",
+			"solid": "false",
+			"reinforced": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"alt": "false"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "true",
+			"solid": "true",
+			"reinforced": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"alt": "false"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "false",
+			"solid": "true",
+			"reinforced": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"alt": "false"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "true",
+			"solid": "false",
+			"reinforced": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"alt": "false"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "false",
+			"solid": "false",
+			"reinforced": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"alt": "false"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "true",
+			"solid": "true",
+			"reinforced": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"alt": "false"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "false",
+			"solid": "true",
+			"reinforced": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"alt": "false"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "true",
+			"solid": "false",
+			"reinforced": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"alt": "false"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "false",
+			"solid": "false",
+			"reinforced": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"alt": "false"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "true",
+			"solid": "true",
+			"reinforced": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"alt": "false"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "false",
+			"solid": "true",
+			"reinforced": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"alt": "false"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "true",
+			"solid": "false",
+			"reinforced": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"alt": "false"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "false",
+			"solid": "false",
+			"reinforced": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"alt": "false"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "true",
+			"solid": "true",
+			"reinforced": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"alt": "false"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "false",
+			"solid": "true",
+			"reinforced": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"alt": "false"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "true",
+			"solid": "false",
+			"reinforced": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"alt": "false"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "false",
+			"solid": "false",
+			"reinforced": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"alt": "false"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "true",
+			"solid": "true",
+			"reinforced": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"alt": "false"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "false",
+			"solid": "true",
+			"reinforced": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"alt": "false"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "true",
+			"solid": "false",
+			"reinforced": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"alt": "false"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "false",
+			"solid": "false",
+			"reinforced": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"alt": "false"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "true",
+			"solid": "true",
+			"reinforced": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"alt": "false"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "false",
+			"solid": "true",
+			"reinforced": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"alt": "false"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "true",
+			"solid": "false",
+			"reinforced": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"alt": "false"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "false",
+			"solid": "false",
+			"reinforced": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"alt": "false"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "true",
+			"solid": "true",
+			"reinforced": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"alt": "false"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "false",
+			"solid": "true",
+			"reinforced": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"alt": "false"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid_bg": "true",
+			"solid": "false",
+			"reinforced": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"alt": "false"
+		},
+		"Name": "framedblocks:framed_cube"
+	},
+	{
+		"Name": "framedblocks:framed_cube"
+	}
+]

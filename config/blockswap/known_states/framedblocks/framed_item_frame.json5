@@ -1,0 +1,1059 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "true",
+			"leather": "true",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "true",
+			"leather": "true",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "false",
+			"leather": "true",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "false",
+			"leather": "true",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "true",
+			"leather": "false",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "true",
+			"leather": "false",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "false",
+			"leather": "false",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "false",
+			"leather": "false",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "true",
+			"leather": "true",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "true",
+			"leather": "true",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "false",
+			"leather": "true",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "false",
+			"leather": "true",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "true",
+			"leather": "false",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "true",
+			"leather": "false",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "false",
+			"leather": "false",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "true",
+			"leather": "true",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "true",
+			"leather": "true",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "false",
+			"leather": "true",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "false",
+			"leather": "true",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "true",
+			"leather": "false",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "true",
+			"leather": "false",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "false",
+			"leather": "false",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "false",
+			"leather": "false",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "true",
+			"leather": "true",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "true",
+			"leather": "true",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "false",
+			"leather": "true",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "false",
+			"leather": "true",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "true",
+			"leather": "false",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "true",
+			"leather": "false",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "false",
+			"leather": "false",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "false",
+			"leather": "false",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "true",
+			"leather": "true",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "true",
+			"leather": "true",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "false",
+			"leather": "true",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "false",
+			"leather": "true",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "true",
+			"leather": "false",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "true",
+			"leather": "false",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "false",
+			"leather": "false",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "false",
+			"leather": "false",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "true",
+			"leather": "true",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "true",
+			"leather": "true",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "false",
+			"leather": "true",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "false",
+			"leather": "true",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "true",
+			"leather": "false",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "true",
+			"leather": "false",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "false",
+			"leather": "false",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "false",
+			"leather": "false",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "true",
+			"leather": "true",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "true",
+			"leather": "true",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "false",
+			"leather": "true",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "false",
+			"leather": "true",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "true",
+			"leather": "false",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "true",
+			"leather": "false",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "false",
+			"leather": "false",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "false",
+			"leather": "false",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "true",
+			"leather": "true",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "true",
+			"leather": "true",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "false",
+			"leather": "true",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "false",
+			"leather": "true",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "true",
+			"leather": "false",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "true",
+			"leather": "false",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "false",
+			"leather": "false",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "false",
+			"leather": "false",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "true",
+			"leather": "true",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "true",
+			"leather": "true",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "false",
+			"leather": "true",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "false",
+			"leather": "true",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "true",
+			"leather": "false",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "true",
+			"leather": "false",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "false",
+			"leather": "false",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "false",
+			"leather": "false",
+			"glowing": "true",
+			"facing": "up"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "true",
+			"leather": "true",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "true",
+			"leather": "true",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "false",
+			"leather": "true",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "false",
+			"leather": "true",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "true",
+			"leather": "false",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "true",
+			"leather": "false",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "false",
+			"leather": "false",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "false",
+			"leather": "false",
+			"glowing": "false",
+			"facing": "up"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "true",
+			"leather": "true",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "true",
+			"leather": "true",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "false",
+			"leather": "true",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "false",
+			"leather": "true",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "true",
+			"leather": "false",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "true",
+			"leather": "false",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "false",
+			"leather": "false",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "false",
+			"leather": "false",
+			"glowing": "true",
+			"facing": "down"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "true",
+			"leather": "true",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "true",
+			"leather": "true",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "false",
+			"leather": "true",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "false",
+			"leather": "true",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "true",
+			"leather": "false",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "true",
+			"leather": "false",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"map_frame": "false",
+			"leather": "false",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"map_frame": "false",
+			"leather": "false",
+			"glowing": "false",
+			"facing": "down"
+		},
+		"Name": "framedblocks:framed_item_frame"
+	}
+]

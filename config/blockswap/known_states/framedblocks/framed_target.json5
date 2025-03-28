@@ -1,0 +1,1284 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "true",
+			"power": "0",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "true",
+			"power": "0",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "false",
+			"power": "0",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "false",
+			"power": "0",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "true",
+			"power": "1",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "true",
+			"power": "1",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "false",
+			"power": "1",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "false",
+			"power": "1",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "true",
+			"power": "2",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "true",
+			"power": "2",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "false",
+			"power": "2",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "false",
+			"power": "2",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "true",
+			"power": "3",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "true",
+			"power": "3",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "false",
+			"power": "3",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "false",
+			"power": "3",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "true",
+			"power": "4",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "true",
+			"power": "4",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "false",
+			"power": "4",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "false",
+			"power": "4",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "true",
+			"power": "5",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "true",
+			"power": "5",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "false",
+			"power": "5",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "false",
+			"power": "5",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "true",
+			"power": "6",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "true",
+			"power": "6",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "false",
+			"power": "6",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "false",
+			"power": "6",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "true",
+			"power": "7",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "true",
+			"power": "7",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "false",
+			"power": "7",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "false",
+			"power": "7",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "true",
+			"power": "8",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "true",
+			"power": "8",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "false",
+			"power": "8",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "false",
+			"power": "8",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "true",
+			"power": "9",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "true",
+			"power": "9",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "false",
+			"power": "9",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "false",
+			"power": "9",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "true",
+			"power": "10",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "true",
+			"power": "10",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "false",
+			"power": "10",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "false",
+			"power": "10",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "true",
+			"power": "11",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "true",
+			"power": "11",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "false",
+			"power": "11",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "false",
+			"power": "11",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "true",
+			"power": "12",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "true",
+			"power": "12",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "false",
+			"power": "12",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "false",
+			"power": "12",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "true",
+			"power": "13",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "true",
+			"power": "13",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "false",
+			"power": "13",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "false",
+			"power": "13",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "true",
+			"power": "14",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "true",
+			"power": "14",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "false",
+			"power": "14",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "false",
+			"power": "14",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "true",
+			"power": "15",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "true",
+			"power": "15",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "false",
+			"power": "15",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "false",
+			"power": "15",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "true",
+			"power": "0",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "true",
+			"power": "0",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "false",
+			"power": "0",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "true",
+			"power": "1",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "true",
+			"power": "1",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "false",
+			"power": "1",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "false",
+			"power": "1",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "true",
+			"power": "2",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "true",
+			"power": "2",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "false",
+			"power": "2",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "false",
+			"power": "2",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "true",
+			"power": "3",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "true",
+			"power": "3",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "false",
+			"power": "3",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "false",
+			"power": "3",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "true",
+			"power": "4",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "true",
+			"power": "4",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "false",
+			"power": "4",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "false",
+			"power": "4",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "true",
+			"power": "5",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "true",
+			"power": "5",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "false",
+			"power": "5",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "false",
+			"power": "5",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "true",
+			"power": "6",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "true",
+			"power": "6",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "false",
+			"power": "6",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "false",
+			"power": "6",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "true",
+			"power": "7",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "true",
+			"power": "7",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "false",
+			"power": "7",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "false",
+			"power": "7",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "true",
+			"power": "8",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "true",
+			"power": "8",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "false",
+			"power": "8",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "false",
+			"power": "8",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "true",
+			"power": "9",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "true",
+			"power": "9",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "false",
+			"power": "9",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "false",
+			"power": "9",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "true",
+			"power": "10",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "true",
+			"power": "10",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "false",
+			"power": "10",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "false",
+			"power": "10",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "true",
+			"power": "11",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "true",
+			"power": "11",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "false",
+			"power": "11",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "false",
+			"power": "11",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "true",
+			"power": "12",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "true",
+			"power": "12",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "false",
+			"power": "12",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "false",
+			"power": "12",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "true",
+			"power": "13",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "true",
+			"power": "13",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "false",
+			"power": "13",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "false",
+			"power": "13",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "true",
+			"power": "14",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "true",
+			"power": "14",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "false",
+			"power": "14",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "false",
+			"power": "14",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "true",
+			"power": "15",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "true",
+			"power": "15",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "true",
+			"propagates_skylight": "false",
+			"power": "15",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"solid": "false",
+			"propagates_skylight": "false",
+			"power": "15",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_target"
+	}
+]

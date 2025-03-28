@@ -1,0 +1,13 @@
+name = "Lithosphere"
+filename = "lithosphere-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b8fd1ffd752ce8329736e7e64b6303b2bd4a80ed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6090923
+project-id = 995122

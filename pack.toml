@@ -1,0 +1,13 @@
+name = "Wild Westcraft"
+author = "west3436"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7720f3590a1ef1490a13eed3e12a49e918ce1d89963495d53c8c108f0ddd82a6"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"

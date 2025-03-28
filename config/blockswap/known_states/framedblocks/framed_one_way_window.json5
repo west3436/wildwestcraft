@@ -1,0 +1,257 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"face": "none"
+		},
+		"Name": "framedblocks:framed_one_way_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"face": "none"
+		},
+		"Name": "framedblocks:framed_one_way_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"face": "none"
+		},
+		"Name": "framedblocks:framed_one_way_window"
+	},
+	{
+		"Name": "framedblocks:framed_one_way_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"face": "down"
+		},
+		"Name": "framedblocks:framed_one_way_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"face": "down"
+		},
+		"Name": "framedblocks:framed_one_way_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"face": "down"
+		},
+		"Name": "framedblocks:framed_one_way_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"face": "down"
+		},
+		"Name": "framedblocks:framed_one_way_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"face": "up"
+		},
+		"Name": "framedblocks:framed_one_way_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"face": "up"
+		},
+		"Name": "framedblocks:framed_one_way_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"face": "up"
+		},
+		"Name": "framedblocks:framed_one_way_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"face": "up"
+		},
+		"Name": "framedblocks:framed_one_way_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"face": "north"
+		},
+		"Name": "framedblocks:framed_one_way_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"face": "north"
+		},
+		"Name": "framedblocks:framed_one_way_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"face": "north"
+		},
+		"Name": "framedblocks:framed_one_way_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"face": "north"
+		},
+		"Name": "framedblocks:framed_one_way_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"face": "south"
+		},
+		"Name": "framedblocks:framed_one_way_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"face": "south"
+		},
+		"Name": "framedblocks:framed_one_way_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"face": "south"
+		},
+		"Name": "framedblocks:framed_one_way_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"face": "south"
+		},
+		"Name": "framedblocks:framed_one_way_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"face": "west"
+		},
+		"Name": "framedblocks:framed_one_way_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"face": "west"
+		},
+		"Name": "framedblocks:framed_one_way_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"face": "west"
+		},
+		"Name": "framedblocks:framed_one_way_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"face": "west"
+		},
+		"Name": "framedblocks:framed_one_way_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"face": "east"
+		},
+		"Name": "framedblocks:framed_one_way_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"face": "east"
+		},
+		"Name": "framedblocks:framed_one_way_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"face": "east"
+		},
+		"Name": "framedblocks:framed_one_way_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"face": "east"
+		},
+		"Name": "framedblocks:framed_one_way_window"
+	}
+]

@@ -1,0 +1,2306 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "bottom",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "bottom",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "horizontal",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "horizontal",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "top",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "top",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "bottom",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "bottom",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "horizontal",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "horizontal",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "top",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "top",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "bottom",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "bottom",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "horizontal",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "horizontal",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "top",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "top",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "bottom",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "bottom",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "horizontal",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "horizontal",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "top",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "top",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "bottom",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "bottom",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "horizontal",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "horizontal",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "top",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "top",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "bottom",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "bottom",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "horizontal",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "horizontal",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "top",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "top",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "bottom",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "bottom",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "horizontal",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "horizontal",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "top",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "top",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "bottom",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "horizontal",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "horizontal",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "top",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "top",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "north"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "bottom",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "bottom",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "horizontal",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "horizontal",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "top",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "top",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "bottom",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "bottom",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "horizontal",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "horizontal",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "top",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "top",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "bottom",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "bottom",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "horizontal",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "horizontal",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "top",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "top",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "bottom",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "bottom",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "horizontal",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "horizontal",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "top",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "top",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "bottom",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "bottom",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "horizontal",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "horizontal",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "top",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "top",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "bottom",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "bottom",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "horizontal",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "horizontal",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "top",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "top",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "bottom",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "bottom",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "horizontal",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "horizontal",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "top",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "top",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "bottom",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "bottom",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "horizontal",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "horizontal",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "top",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "top",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "south"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "bottom",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "bottom",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "horizontal",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "horizontal",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "top",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "top",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "bottom",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "bottom",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "horizontal",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "horizontal",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "top",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "top",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "bottom",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "bottom",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "horizontal",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "horizontal",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "top",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "top",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "bottom",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "bottom",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "horizontal",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "horizontal",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "top",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "top",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "bottom",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "bottom",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "horizontal",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "horizontal",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "top",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "top",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "bottom",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "bottom",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "horizontal",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "horizontal",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "top",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "top",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "bottom",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "bottom",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "horizontal",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "horizontal",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "top",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "top",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "bottom",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "bottom",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "horizontal",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "horizontal",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "top",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "top",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "west"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "bottom",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "bottom",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "horizontal",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "horizontal",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "top",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "top",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "bottom",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "bottom",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "horizontal",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "horizontal",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "top",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "top",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "bottom",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "bottom",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "horizontal",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "horizontal",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "top",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "top",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "bottom",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "bottom",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "horizontal",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "horizontal",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "top",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "top",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "bottom",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "bottom",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "horizontal",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "horizontal",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "top",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "top",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "bottom",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "bottom",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "horizontal",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "horizontal",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "top",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "top",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "bottom",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "bottom",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "horizontal",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "horizontal",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "top",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "top",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "bottom",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "bottom",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "horizontal",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "horizontal",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"type": "top",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"type": "top",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing": "east"
+		},
+		"Name": "framedblocks:framed_double_slope"
+	}
+]

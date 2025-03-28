@@ -1,0 +1,70 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"journal": "true",
+			"facing": "north"
+		},
+		"Name": "agricraft:seed_analyzer"
+	},
+	{
+		"Name": "agricraft:seed_analyzer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"journal": "true",
+			"facing": "south"
+		},
+		"Name": "agricraft:seed_analyzer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"journal": "false",
+			"facing": "south"
+		},
+		"Name": "agricraft:seed_analyzer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"journal": "true",
+			"facing": "west"
+		},
+		"Name": "agricraft:seed_analyzer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"journal": "false",
+			"facing": "west"
+		},
+		"Name": "agricraft:seed_analyzer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"journal": "true",
+			"facing": "east"
+		},
+		"Name": "agricraft:seed_analyzer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"journal": "false",
+			"facing": "east"
+		},
+		"Name": "agricraft:seed_analyzer"
+	}
+]

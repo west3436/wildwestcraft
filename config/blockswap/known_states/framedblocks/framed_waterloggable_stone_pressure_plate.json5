@@ -1,0 +1,164 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"powered": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_waterloggable_stone_pressure_plate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"powered": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_waterloggable_stone_pressure_plate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"powered": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_waterloggable_stone_pressure_plate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"powered": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_waterloggable_stone_pressure_plate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"powered": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_waterloggable_stone_pressure_plate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"powered": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_waterloggable_stone_pressure_plate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"powered": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_waterloggable_stone_pressure_plate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"powered": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_waterloggable_stone_pressure_plate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"powered": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_waterloggable_stone_pressure_plate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"powered": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_waterloggable_stone_pressure_plate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"powered": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_waterloggable_stone_pressure_plate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"powered": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_waterloggable_stone_pressure_plate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"powered": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_waterloggable_stone_pressure_plate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"powered": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_waterloggable_stone_pressure_plate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"powered": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_waterloggable_stone_pressure_plate"
+	},
+	{
+		"Name": "framedblocks:framed_waterloggable_stone_pressure_plate"
+	}
+]

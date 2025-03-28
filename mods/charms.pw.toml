@@ -1,0 +1,13 @@
+name = "Charms"
+filename = "charms-2.1.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b7c0d03f3fc523bbdab8d7c7653682ac802d1a6d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6135644
+project-id = 420955

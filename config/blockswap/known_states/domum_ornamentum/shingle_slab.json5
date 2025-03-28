@@ -1,0 +1,437 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"facing": "north"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "one_way",
+			"facing": "north"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "one_way",
+			"facing": "north"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "two_way",
+			"facing": "north"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "two_way",
+			"facing": "north"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "three_way",
+			"facing": "north"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "three_way",
+			"facing": "north"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "four_way",
+			"facing": "north"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "four_way",
+			"facing": "north"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "curved",
+			"facing": "north"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "curved",
+			"facing": "north"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"facing": "south"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "top",
+			"facing": "south"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "one_way",
+			"facing": "south"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "one_way",
+			"facing": "south"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "two_way",
+			"facing": "south"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "two_way",
+			"facing": "south"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "three_way",
+			"facing": "south"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "three_way",
+			"facing": "south"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "four_way",
+			"facing": "south"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "four_way",
+			"facing": "south"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "curved",
+			"facing": "south"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "curved",
+			"facing": "south"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"facing": "west"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "top",
+			"facing": "west"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "one_way",
+			"facing": "west"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "one_way",
+			"facing": "west"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "two_way",
+			"facing": "west"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "two_way",
+			"facing": "west"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "three_way",
+			"facing": "west"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "three_way",
+			"facing": "west"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "four_way",
+			"facing": "west"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "four_way",
+			"facing": "west"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "curved",
+			"facing": "west"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "curved",
+			"facing": "west"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"facing": "east"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "top",
+			"facing": "east"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "one_way",
+			"facing": "east"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "one_way",
+			"facing": "east"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "two_way",
+			"facing": "east"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "two_way",
+			"facing": "east"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "three_way",
+			"facing": "east"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "three_way",
+			"facing": "east"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "four_way",
+			"facing": "east"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "four_way",
+			"facing": "east"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "curved",
+			"facing": "east"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "curved",
+			"facing": "east"
+		},
+		"Name": "domum_ornamentum:shingle_slab"
+	}
+]

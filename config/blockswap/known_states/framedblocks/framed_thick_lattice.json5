@@ -1,0 +1,1665 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "true",
+			"x_axis": "true",
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"locked": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "true",
+			"x_axis": "true",
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"locked": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "false",
+			"x_axis": "true",
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"locked": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "false",
+			"x_axis": "true",
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"locked": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "true",
+			"x_axis": "false",
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"locked": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "true",
+			"x_axis": "false",
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"locked": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "false",
+			"x_axis": "false",
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"locked": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "false",
+			"x_axis": "false",
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"locked": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "true",
+			"x_axis": "true",
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"locked": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "true",
+			"x_axis": "true",
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"locked": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "false",
+			"x_axis": "true",
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"locked": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "false",
+			"x_axis": "true",
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"locked": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "true",
+			"x_axis": "false",
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"locked": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "true",
+			"x_axis": "false",
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"locked": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "false",
+			"x_axis": "false",
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"locked": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "false",
+			"x_axis": "false",
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"locked": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "true",
+			"x_axis": "true",
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"locked": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "true",
+			"x_axis": "true",
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"locked": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "false",
+			"x_axis": "true",
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"locked": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "false",
+			"x_axis": "true",
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"locked": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "true",
+			"x_axis": "false",
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"locked": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "true",
+			"x_axis": "false",
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"locked": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "false",
+			"x_axis": "false",
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"locked": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "false",
+			"x_axis": "false",
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"locked": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "true",
+			"x_axis": "true",
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"locked": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "true",
+			"x_axis": "true",
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"locked": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "false",
+			"x_axis": "true",
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"locked": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "false",
+			"x_axis": "true",
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"locked": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "true",
+			"x_axis": "false",
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"locked": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "true",
+			"x_axis": "false",
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"locked": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "false",
+			"x_axis": "false",
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"locked": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "false",
+			"x_axis": "false",
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"locked": "true",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "true",
+			"x_axis": "true",
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"locked": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "true",
+			"x_axis": "true",
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"locked": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "false",
+			"x_axis": "true",
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"locked": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "false",
+			"x_axis": "true",
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"locked": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "true",
+			"x_axis": "false",
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"locked": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "true",
+			"x_axis": "false",
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"locked": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "false",
+			"x_axis": "false",
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"locked": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "false",
+			"x_axis": "false",
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"locked": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "true",
+			"x_axis": "true",
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"locked": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "true",
+			"x_axis": "true",
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"locked": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "false",
+			"x_axis": "true",
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"locked": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "false",
+			"x_axis": "true",
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"locked": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "true",
+			"x_axis": "false",
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"locked": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "true",
+			"x_axis": "false",
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"locked": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "false",
+			"x_axis": "false",
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"locked": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "false",
+			"x_axis": "false",
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"locked": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "true",
+			"x_axis": "true",
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"locked": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "true",
+			"x_axis": "true",
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"locked": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "false",
+			"x_axis": "true",
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"locked": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "false",
+			"x_axis": "true",
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"locked": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "true",
+			"x_axis": "false",
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"locked": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "true",
+			"x_axis": "false",
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"locked": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "false",
+			"x_axis": "false",
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"locked": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "false",
+			"x_axis": "false",
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"locked": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "true",
+			"x_axis": "true",
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"locked": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "true",
+			"x_axis": "true",
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"locked": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "false",
+			"x_axis": "true",
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"locked": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "false",
+			"x_axis": "true",
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"locked": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "true",
+			"x_axis": "false",
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"locked": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "true",
+			"x_axis": "false",
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"locked": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "false",
+			"x_axis": "false",
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"locked": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "false",
+			"x_axis": "false",
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"locked": "false",
+			"glowing": "true"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "true",
+			"x_axis": "true",
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"locked": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "true",
+			"x_axis": "true",
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"locked": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "false",
+			"x_axis": "true",
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"locked": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "false",
+			"x_axis": "true",
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"locked": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "true",
+			"x_axis": "false",
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"locked": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "true",
+			"x_axis": "false",
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"locked": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "false",
+			"x_axis": "false",
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"locked": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "false",
+			"x_axis": "false",
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"locked": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "true",
+			"x_axis": "true",
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"locked": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "true",
+			"x_axis": "true",
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"locked": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "false",
+			"x_axis": "true",
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"locked": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "false",
+			"x_axis": "true",
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"locked": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "true",
+			"x_axis": "false",
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"locked": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "true",
+			"x_axis": "false",
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"locked": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "false",
+			"x_axis": "false",
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"locked": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "false",
+			"x_axis": "false",
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"locked": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "true",
+			"x_axis": "true",
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"locked": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "true",
+			"x_axis": "true",
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"locked": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "false",
+			"x_axis": "true",
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"locked": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "false",
+			"x_axis": "true",
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"locked": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "true",
+			"x_axis": "false",
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"locked": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "true",
+			"x_axis": "false",
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"locked": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "false",
+			"x_axis": "false",
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"locked": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "false",
+			"x_axis": "false",
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"locked": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "true",
+			"x_axis": "true",
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"locked": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "true",
+			"x_axis": "true",
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"locked": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "false",
+			"x_axis": "true",
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"locked": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "false",
+			"x_axis": "true",
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"locked": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "true",
+			"x_axis": "false",
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"locked": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "true",
+			"x_axis": "false",
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"locked": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "false",
+			"x_axis": "false",
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"locked": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "false",
+			"x_axis": "false",
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"locked": "true",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "true",
+			"x_axis": "true",
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"locked": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "true",
+			"x_axis": "true",
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"locked": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "false",
+			"x_axis": "true",
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"locked": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "false",
+			"x_axis": "true",
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"locked": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "true",
+			"x_axis": "false",
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"locked": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "true",
+			"x_axis": "false",
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"locked": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "false",
+			"x_axis": "false",
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"locked": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "false",
+			"x_axis": "false",
+			"waterlogged": "true",
+			"propagates_skylight": "true",
+			"locked": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "true",
+			"x_axis": "true",
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"locked": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "true",
+			"x_axis": "true",
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"locked": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "false",
+			"x_axis": "true",
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"locked": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "false",
+			"x_axis": "true",
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"locked": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "true",
+			"x_axis": "false",
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"locked": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "true",
+			"x_axis": "false",
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"locked": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "false",
+			"x_axis": "false",
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"locked": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "false",
+			"x_axis": "false",
+			"waterlogged": "false",
+			"propagates_skylight": "true",
+			"locked": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "true",
+			"x_axis": "true",
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"locked": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "true",
+			"x_axis": "true",
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"locked": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "false",
+			"x_axis": "true",
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"locked": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "false",
+			"x_axis": "true",
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"locked": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "true",
+			"x_axis": "false",
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"locked": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "true",
+			"x_axis": "false",
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"locked": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "false",
+			"x_axis": "false",
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"locked": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "false",
+			"x_axis": "false",
+			"waterlogged": "true",
+			"propagates_skylight": "false",
+			"locked": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "true",
+			"x_axis": "true",
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"locked": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "true",
+			"x_axis": "true",
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"locked": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "false",
+			"x_axis": "true",
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"locked": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "false",
+			"x_axis": "true",
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"locked": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "true",
+			"x_axis": "false",
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"locked": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "false",
+			"y_asix": "true",
+			"x_axis": "false",
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"locked": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"z_axis": "true",
+			"y_asix": "false",
+			"x_axis": "false",
+			"waterlogged": "false",
+			"propagates_skylight": "false",
+			"locked": "false",
+			"glowing": "false"
+		},
+		"Name": "framedblocks:framed_thick_lattice"
+	},
+	{
+		"Name": "framedblocks:framed_thick_lattice"
+	}
+]

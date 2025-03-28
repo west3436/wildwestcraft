@@ -1,0 +1,13 @@
+name = "AgriCraft"
+filename = "AgriCraft-forge-1.20.1-4.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0cddcb841c4b5d1d9381b4108557f04c4b89c5e9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5899444
+project-id = 225635

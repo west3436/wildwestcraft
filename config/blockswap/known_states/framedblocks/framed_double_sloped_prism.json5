@@ -1,0 +1,4227 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "down_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "down_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "down_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "down_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "down_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "down_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "down_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "down_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "down_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "down_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "down_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "down_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "down_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "down_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "down_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "down_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "down_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "down_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "down_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "down_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "down_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "down_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "down_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "down_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "down_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "down_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "down_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "down_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "down_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "down_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "down_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "down_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "down_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "down_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "down_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "down_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "down_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "down_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "down_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "down_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "down_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "down_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "down_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "down_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "down_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "down_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "down_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "down_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "down_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "down_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "down_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "down_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "down_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "down_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "down_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "down_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "down_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "down_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "down_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "down_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "down_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "down_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "down_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "up_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "up_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "up_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "up_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "up_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "up_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "up_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "up_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "up_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "up_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "up_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "up_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "up_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "up_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "up_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "up_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "up_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "up_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "up_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "up_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "up_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "up_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "up_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "up_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "up_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "up_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "up_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "up_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "up_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "up_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "up_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "up_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "up_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "up_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "up_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "up_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "up_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "up_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "up_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "up_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "up_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "up_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "up_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "up_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "up_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "up_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "up_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "up_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "up_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "up_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "up_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "up_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "up_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "up_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "up_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "up_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "up_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "up_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "up_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "up_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "up_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "up_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "up_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "up_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "north_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "north_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "north_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "north_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "north_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "north_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "north_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "north_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "north_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "north_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "north_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "north_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "north_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "north_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "north_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "north_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "north_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "north_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "north_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "north_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "north_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "north_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "north_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "north_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "north_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "north_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "north_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "north_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "north_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "north_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "north_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "north_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "north_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "north_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "north_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "north_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "north_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "north_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "north_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "north_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "north_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "north_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "north_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "north_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "north_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "north_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "north_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "north_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "north_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "north_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "north_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "north_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "north_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "north_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "north_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "north_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "north_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "north_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "north_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "north_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "north_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "north_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "north_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "north_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "south_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "south_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "south_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "south_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "south_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "south_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "south_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "south_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "south_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "south_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "south_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "south_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "south_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "south_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "south_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "south_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "south_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "south_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "south_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "south_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "south_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "south_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "south_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "south_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "south_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "south_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "south_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "south_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "south_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "south_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "south_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "south_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "south_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "south_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "south_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "south_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "south_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "south_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "south_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "south_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "south_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "south_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "south_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "south_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "south_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "south_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "south_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "south_west"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "south_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "south_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "south_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "south_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "south_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "south_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "south_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "south_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "south_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "south_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "south_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "south_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "south_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "south_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "south_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "south_east"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "west_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "west_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "west_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "west_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "west_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "west_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "west_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "west_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "west_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "west_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "west_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "west_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "west_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "west_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "west_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "west_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "west_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "west_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "west_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "west_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "west_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "west_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "west_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "west_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "west_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "west_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "west_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "west_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "west_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "west_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "west_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "west_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "west_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "west_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "west_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "west_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "west_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "west_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "west_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "west_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "west_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "west_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "west_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "west_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "west_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "west_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "west_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "west_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "west_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "west_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "west_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "west_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "west_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "west_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "west_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "west_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "west_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "west_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "west_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "west_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "west_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "west_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "west_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "west_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "east_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "east_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "east_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "east_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "east_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "east_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "east_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "east_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "east_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "east_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "east_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "east_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "east_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "east_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "east_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "east_down"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "east_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "east_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "east_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "east_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "east_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "east_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "east_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "east_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "east_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "east_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "east_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "east_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "east_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "east_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "east_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "east_up"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "east_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "east_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "east_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "east_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "east_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "east_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "east_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "east_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "east_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "east_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "east_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "east_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "east_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "east_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "east_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "east_north"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "east_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "east_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "east_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "true",
+			"facing_dir": "east_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "east_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "east_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "east_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "true",
+			"facing_dir": "east_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "east_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "east_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "east_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "true",
+			"glowing": "false",
+			"facing_dir": "east_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "east_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "true",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "east_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "true",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "east_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"yslope": "false",
+			"solid": "false",
+			"propagates_skylight": "false",
+			"glowing": "false",
+			"facing_dir": "east_south"
+		},
+		"Name": "framedblocks:framed_double_sloped_prism"
+	}
+]
