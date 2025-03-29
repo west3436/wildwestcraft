@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "86029a090fa0c2d9da56e1ec57e25b7374f9f9a5383e1d02caaa1188aefc2155"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "aeb8c023ecf61c0a218159b09ebedb6806d15c0a06ec22a32595fb4b23269b82"
 
@@ -40821,6 +40825,11 @@ file = "kubejs/startup_scripts/example.js"
 hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "63833ffe55dc61c65d118669f3ba9d9870310dc2354387cba81011490bc40ccf"
+metafile = true
+
+[[files]]
 file = "mods/ae2-things-forge.pw.toml"
 hash = "8f7696617249a4be35a9d1a2caecce4e17bbffe823f904d10c6fc8b72c4352ca"
 metafile = true
@@ -40908,6 +40917,11 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "c1dc583e440716e24fd8478792f730538a576e8338fcbe31f5ac9ef835fc743d"
 metafile = true
 
 [[files]]
@@ -41246,6 +41260,11 @@ hash = "2e96ff6625fa5844c2969fd49918310c789aa9d4bfbcffc69c997ba83de41bd6"
 metafile = true
 
 [[files]]
+file = "mods/more-peripherals.pw.toml"
+hash = "22fdac711ad40f7498c547d8a6df6cf7865909f050d16c7f59d6284a3be67509"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
 metafile = true
@@ -41333,6 +41352,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "dd105e501832dcd4e443015af266973c58586553331512a6c171d865dd36c3bc"
+metafile = true
+
+[[files]]
+file = "mods/probejs.pw.toml"
+hash = "25f4863fba654a2b603a90f52ce5f0e17871c4249fd5c7bef3d40a6c8d9e36de"
 metafile = true
 
 [[files]]
@@ -41436,7 +41460,7 @@ hash = "0da91c14dedbe51e10239436f3f4c015ff1c4c1d6207188dea395d0102d459cd"
 
 [[files]]
 file = "mods/tfmg-fix.pw.toml"
-hash = "d1ce9c7691d21e89c29ead07d7ddd646e04eb9cbdfd2934357c08dd7aa0483e6"
+hash = "71dbc0535921abb534db86aecfe807d52ff0d662a1b2d1238f0ed1e75f12c9fc"
 metafile = true
 
 [[files]]
@@ -41447,6 +41471,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "5e41fd8f565e09e83868e4c4776154befd3203b01ed5f09b6f7cd27687ec0041"
+metafile = true
+
+[[files]]
+file = "mods/toms-peripherals.pw.toml"
+hash = "8f24c32dfb990b6741be6085cc2e478b675bafdb368a059fd431e39f3253af9e"
 metafile = true
 
 [[files]]
@@ -41483,3 +41512,7 @@ metafile = true
 file = "mods/yungs-better-dungeons.pw.toml"
 hash = "8046bfec2206ca605e19cf458ba78d916ce3fafa1ccd9ff07ce0712a45a4063d"
 metafile = true
+
+[[files]]
+file = "wildwestcraft/LICENSE"
+hash = "86029a090fa0c2d9da56e1ec57e25b7374f9f9a5383e1d02caaa1188aefc2155"
