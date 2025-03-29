@@ -1,4 +1,7 @@
-name = "The Factory Must Grow - Patched"
+name = "TFMG-Fix"
 filename = "tfmg-fix.jar"
-side = "both"
-download = { url = "https://raw.githubusercontent.com/west3436/wildwestcraft/main/mods/tfmg-fix.jar", hashFormat = "sha1", hash = "DDB498D63989BC331B9CCCD2C15368FE8E42B1CF"}
+
+[download]
+url = "https://raw.githubusercontent.com/west3436/wildwestcraft/main/mods/tfmg-fix.jar"
+hash-format = "sha256"
+hash = "0da91c14dedbe51e10239436f3f4c015ff1c4c1d6207188dea395d0102d459cd"
