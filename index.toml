@@ -41460,7 +41460,7 @@ hash = "0da91c14dedbe51e10239436f3f4c015ff1c4c1d6207188dea395d0102d459cd"
 
 [[files]]
 file = "mods/tfmg-fix.pw.toml"
-hash = "71dbc0535921abb534db86aecfe807d52ff0d662a1b2d1238f0ed1e75f12c9fc"
+hash = "38072f4e94dd95214f5dac50536a7c2e828bb470e752b6c3d71f1dd119d25001"
 metafile = true
 
 [[files]]
