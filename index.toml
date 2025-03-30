@@ -41426,6 +41426,11 @@ hash = "762eced5d260cdbc94f0acc033efd8fe70fdfe5a28bd8d180e0b052de509893f"
 metafile = true
 
 [[files]]
+file = "mods/sinytra-connector.pw.toml"
+hash = "0eab5a7036d1f06d6a7d4679685eaec5723a5c21469f519de1cd1e0ff416ade3"
+metafile = true
+
+[[files]]
 file = "mods/small-ships.pw.toml"
 hash = "a2641c9187ec8485df45b2fb25c901f835da50ffe4d9601e4ecc81fc9036eb55"
 metafile = true
