@@ -40906,6 +40906,10 @@ hash = "8461b7344559646b5051a6d812e2cd4d43e62c8c817d17f0b2552f65306f43d4"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar"
+hash = "a6c0f7fbc1b2a62cafe72a967165caeef0fb671b7e0d377bd60fbb1e7f724cde"
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "5155ae1ca2c606df2001422a48cd167d2449160d5fe12a302753dee69af7fe92"
 metafile = true
@@ -40943,6 +40947,16 @@ metafile = true
 [[files]]
 file = "mods/configured.pw.toml"
 hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "852ee3d5dea735c0c8f4c030edb06164863e7d27eef535c697f86a8b20a1cff0"
+metafile = true
+
+[[files]]
+file = "mods/connectored-c2me-(c2me-fork-for-connector).pw.toml"
+hash = "29707b0d591793d493d2378181d247358c00fc51bd77668b63cda8aa6f8c343d"
 metafile = true
 
 [[files]]
@@ -41033,6 +41047,11 @@ metafile = true
 [[files]]
 file = "mods/forestry-community-edition.pw.toml"
 hash = "adb9de01f863ef9380df546921dfb6a53966a38f5a53511707b78f20eff388cd"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "3906d79212d26da8569ad46ae6bff34f8af0b3bc0a1ec6b658c8bf7a07b939d8"
 metafile = true
 
 [[files]]
@@ -41408,6 +41427,11 @@ metafile = true
 [[files]]
 file = "mods/simply-light.pw.toml"
 hash = "762eced5d260cdbc94f0acc033efd8fe70fdfe5a28bd8d180e0b052de509893f"
+metafile = true
+
+[[files]]
+file = "mods/sinytra-connector.pw.toml"
+hash = "0eab5a7036d1f06d6a7d4679685eaec5723a5c21469f519de1cd1e0ff416ade3"
 metafile = true
 
 [[files]]
