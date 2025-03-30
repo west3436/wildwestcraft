@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "86029a090fa0c2d9da56e1ec57e25b7374f9f9a5383e1d02caaa1188aefc2155"
-
-[[files]]
 file = "config/DistantHorizons.toml"
 hash = "aeb8c023ecf61c0a218159b09ebedb6806d15c0a06ec22a32595fb4b23269b82"
 
@@ -41215,6 +41211,11 @@ hash = "4494c0ca2e7bcf5dc0193e4dc1aa37a0cb868ed40b002b8729bb16658b423dfb"
 metafile = true
 
 [[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "69cee636ccc8f669dd9c157ef44b6072465fe4c35b82965046bcc4647d8b820e"
+metafile = true
+
+[[files]]
 file = "mods/macaws-roofs.pw.toml"
 hash = "fbb984a9f19934ccba273c93d203a3d9d623b2016b1c8c8af340b717910ca070"
 metafile = true
@@ -41325,8 +41326,8 @@ hash = "320c4d3a50b1f2f45d64d2f88c8c16473bc85b95d67e54ff93205ac9d2ead3cf"
 metafile = true
 
 [[files]]
-file = "mods/oldguns.pw.toml"
-hash = "2c46e305f50cdc96fe2c2ada2806a24d8e7e814da89f8ca96548a4422ab617c2"
+file = "mods/old-guns-mod.pw.toml"
+hash = "36e5678b8b39ba7d80eb955ceb5259e46adda131bb39796cb4eaf6920ff6360f"
 metafile = true
 
 [[files]]
@@ -41512,7 +41513,3 @@ metafile = true
 file = "mods/yungs-better-dungeons.pw.toml"
 hash = "8046bfec2206ca605e19cf458ba78d916ce3fafa1ccd9ff07ce0712a45a4063d"
 metafile = true
-
-[[files]]
-file = "wildwestcraft/LICENSE"
-hash = "86029a090fa0c2d9da56e1ec57e25b7374f9f9a5383e1d02caaa1188aefc2155"
