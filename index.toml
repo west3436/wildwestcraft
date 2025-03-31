@@ -41525,6 +41525,11 @@ hash = "ac26aae21a13356e9ad5cba79e192692606806e7f2ce4db9157334427ab15e3a"
 metafile = true
 
 [[files]]
+file = "mods/world-preview.pw.toml"
+hash = "4cbaef598ee1cb241ea0efe33eb3947a503f25409952e860ec69833692c7822d"
+metafile = true
+
+[[files]]
 file = "mods/xnet.pw.toml"
 hash = "aa7f10fc9d64f50c305e1b74d9e6718f7b9dad7a61afe912e794cd0247f6228d"
 metafile = true
