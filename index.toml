@@ -40809,10 +40809,6 @@ file = "kubejs/server_scripts/example.js"
 hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
 
 [[files]]
-file = "kubejs/server_scripts/excavation.js"
-hash = "577b8e8c1235a5596e88541c21865d5fe06db9839efc07a37f965b2a4bd9a524"
-
-[[files]]
 file = "kubejs/server_scripts/replacements.js"
 hash = "f64d25c346d7d5951ffbdaf9f9c18a2fecc36761b30152279c88639cb73a93ea"
 
@@ -41351,6 +41347,11 @@ hash = "320c4d3a50b1f2f45d64d2f88c8c16473bc85b95d67e54ff93205ac9d2ead3cf"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
+metafile = true
+
+[[files]]
 file = "mods/old-guns-mod.pw.toml"
 hash = "36e5678b8b39ba7d80eb955ceb5259e46adda131bb39796cb4eaf6920ff6360f"
 metafile = true
@@ -41552,4 +41553,14 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
 hash = "8046bfec2206ca605e19cf458ba78d916ce3fafa1ccd9ff07ce0712a45a4063d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-32x.pw.toml"
+hash = "202679a92d8d76749e0917d61a1d143ff3d9939e8137edfaf73ed22cedaa97d3"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "239c936d8a97c44812a4641cb30416eb93c9ce22c4f76f10ea6091bf4146afeb"
 metafile = true
