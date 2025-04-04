@@ -18,6 +18,7 @@ event.remove({output: 'nuclearcraft:manufactory'})
 event.remove({output: 'ae2:inscriber'})
 event.remove({output: 'industrialrenewal:sponge_iron'})
 event.remove({output: 'industrialrenewal:ingot_steel'})
+event.remove({output: 'forestry:ingot_bronze'})
 
 // Add new recipes
 event.shaped('mekanism:metallurgic_infuser', [
