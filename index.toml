@@ -40798,7 +40798,7 @@ hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
 
 [[files]]
 file = "kubejs/client_scripts/hide.js"
-hash = "0a09f259f47252f7ef9a89aa251a033bcbaee78d20dd545f752edd5ef496ad02"
+hash = "b154bb0d5c7794edcc6e8447c159ec457f163cf22a865bd0434565b6c27c8698"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -40814,11 +40814,19 @@ hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
 
 [[files]]
 file = "kubejs/server_scripts/replacements.js"
-hash = "f64d25c346d7d5951ffbdaf9f9c18a2fecc36761b30152279c88639cb73a93ea"
+hash = "a6b514521c4b8dde7ac70a8369f01baa21c649bc8df11dd0c0d0e3b6690a7adb"
+
+[[files]]
+file = "kubejs/server_scripts/scalp.js"
+hash = "4a972e5f0af29cb89f41d7766386af99bf64e33ee9d637fde2f4f9dbf81acbf6"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
 hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+
+[[files]]
+file = "kubejs/startup_scripts/scalp.js"
+hash = "af567942ee09b1174dac9099339ea9eb09431b7e41958a432f5cd3f955684c11"
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
@@ -41453,11 +41461,6 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "bbed5792ab8d818d5cf5f25387427e6fd1999376d330f7cd0a6ff55554073adb"
-metafile = true
-
-[[files]]
-file = "mods/simple-discord-rich-presence.pw.toml"
-hash = "1107c941dcd4b1678ad79b8a29648457343e6aac9e373c8f5af99935140e6066"
 metafile = true
 
 [[files]]
