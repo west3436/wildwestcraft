@@ -40250,7 +40250,7 @@ hash = "76aecd29d065d018c440e93bb107cfbf9793ca73b55e12afab63b17bce25dfb2"
 
 [[files]]
 file = "config/farmingforblockheads-common.toml"
-hash = "e17fcf4f22641185d95a942db44589d673d2f8f03c0e4c7bcffe8054b910977b"
+hash = "51eadbfc0859dd8309287a010c0861daad3727df99354dd9a8f01b4d1da2495b"
 
 [[files]]
 file = "config/farmingforblockheads/MarketRegistry.json"
@@ -41089,6 +41089,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-quests-forge.pw.toml"
 hash = "3cac9f3d4dc792068b030c9f260eee8cef70f307d98daa7e6814e0e4375de6e8"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ranks-forge.pw.toml"
+hash = "517e9a48e3bc790458003217c1c8608919bc3c5c06770c106fe36ca3f2d07d9e"
 metafile = true
 
 [[files]]
