@@ -41613,11 +41613,3 @@ metafile = true
 file = "shaderpacks/photon-shader.pw.toml"
 hash = "239c936d8a97c44812a4641cb30416eb93c9ce22c4f76f10ea6091bf4146afeb"
 metafile = true
-
-[[files]]
-file = "wildwestcraft/assets/kubejs/models/item/scalp.json"
-hash = "29a5d00c9f8e36c452e3f9e4d6440905f6a8ad7c7539adcc8f9a3918b07b8758"
-
-[[files]]
-file = "wildwestcraft/assets/kubejs/textures/item/scalp.png"
-hash = "090a7967510cac0444a19ba175f84d079e3caca4c2188a8dd052126fcff237d0"
