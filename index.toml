@@ -40999,6 +40999,11 @@ hash = "42a7ffa2efa0ccf9260b887714b5da8e17cc7a9a59d02aaa8061bd5bf0ab0612"
 metafile = true
 
 [[files]]
+file = "mods/dimensional-worldborder-continuation.pw.toml"
+hash = "e899641e3474aa1fe250ed1fb1c4877a2b41c6e05fc688472316fc72aaba4aec"
+metafile = true
+
+[[files]]
 file = "mods/distant-horizons.pw.toml"
 hash = "78e86b01d4f72cda8d12660151c101b02f0ef1dbcfc5d73f6c8dba10fbd482ee"
 metafile = true

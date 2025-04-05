@@ -1,0 +1,13 @@
+name = "WorldBorder (dimensional)"
+filename = "DimWorldBorder-Continuation-1.20.1-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "49a58eb0f0079a245f8bdd4ee0544cd4cc94af31"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4747161
+project-id = 840825
