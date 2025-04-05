@@ -40814,7 +40814,7 @@ hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
 
 [[files]]
 file = "kubejs/server_scripts/replacements.js"
-hash = "a6b514521c4b8dde7ac70a8369f01baa21c649bc8df11dd0c0d0e3b6690a7adb"
+hash = "b62d01878fa0e11601d3cdf3313763b974b99da0c122d02c76bec23a3c6f515e"
 
 [[files]]
 file = "kubejs/server_scripts/scalp.js"
@@ -41176,6 +41176,11 @@ metafile = true
 [[files]]
 file = "mods/industrial-renewal.pw.toml"
 hash = "90c2d835c6040ddf44db435d19ea4a903592c1ce4f1610f6c5f8c847eb56f73e"
+metafile = true
+
+[[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "3e53a00faa4c4b7a182fef776a740bc6df256b81a4ec77b299363e1dda62813a"
 metafile = true
 
 [[files]]

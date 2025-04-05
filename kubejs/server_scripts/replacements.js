@@ -76,6 +76,18 @@ event.shaped('ae2:inscriber', [
  N: 'mekanism:control_circuit/ultimate'
 })
 
+event.shaped(
+	Item.of('tfmg:fireclay_ball',16),
+	[
+	'ZZZ',
+	'ZYZ',
+	'ZZZ'
+	], {
+	 Z: 'minecraft:clay_ball',
+	 Y: 'tconstruct:nether_grout'
+})
+
+
 event.replaceInput({}, 'industrialforegoing:plastic', '#forge:plastics')
 event.replaceInput({}, 'tfmg:plastic_sheet', '#forge:plastics')
 event.replaceInput({}, 'pneumaticcraft:plastic', '#forge:plastics')
