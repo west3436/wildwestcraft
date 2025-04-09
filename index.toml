@@ -40829,13 +40829,13 @@ file = "kubejs/startup_scripts/scalp.js"
 hash = "af567942ee09b1174dac9099339ea9eb09431b7e41958a432f5cd3f955684c11"
 
 [[files]]
-file = "mods/advancedperipherals.pw.toml"
-hash = "63833ffe55dc61c65d118669f3ba9d9870310dc2354387cba81011490bc40ccf"
+file = "mods/advancedae.pw.toml"
+hash = "634efb4797404ecac183301afec7bbe96593ba56228ab25fa30b2a7805be88cb"
 metafile = true
 
 [[files]]
-file = "mods/ae2-things-forge.pw.toml"
-hash = "8f7696617249a4be35a9d1a2caecce4e17bbffe823f904d10c6fc8b72c4352ca"
+file = "mods/advancedperipherals.pw.toml"
+hash = "63833ffe55dc61c65d118669f3ba9d9870310dc2354387cba81011490bc40ccf"
 metafile = true
 
 [[files]]
@@ -41136,6 +41136,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "598758f152e98916bc6eea2ad73a82b47a6e6934f4b0ba1e1f6593773afd1a50"
+metafile = true
+
+[[files]]
+file = "mods/glodium.pw.toml"
+hash = "2a7944b951ebfaa4dcf963c3e2faf43eb8115d99a4390daa49dd8ea6676e8828"
 metafile = true
 
 [[files]]
