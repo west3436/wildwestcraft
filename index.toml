@@ -41484,6 +41484,11 @@ hash = "bbed5792ab8d818d5cf5f25387427e6fd1999376d330f7cd0a6ff55554073adb"
 metafile = true
 
 [[files]]
+file = "mods/showcase-item.pw.toml"
+hash = "b9e82a71c1e03c16cced1ea055f4bfa18139ff7f2b1d7108061f8adcd3214ddc"
+metafile = true
+
+[[files]]
 file = "mods/simply-light.pw.toml"
 hash = "762eced5d260cdbc94f0acc033efd8fe70fdfe5a28bd8d180e0b052de509893f"
 metafile = true
