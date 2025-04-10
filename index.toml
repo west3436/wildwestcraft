@@ -41134,6 +41134,11 @@ hash = "8c7cdab3c1cfed2f2ee6c48ab0b5450b7672f0f4256e20b08ce16e71c2c8773b"
 metafile = true
 
 [[files]]
+file = "mods/gcgithub.pw.toml"
+hash = "705d85515ffa423b4d104f558855e4d874d3bd51c934d4159ae6ed3449d371d6"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "598758f152e98916bc6eea2ad73a82b47a6e6934f4b0ba1e1f6593773afd1a50"
 metafile = true
@@ -41146,11 +41151,6 @@ metafile = true
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "acf1aceab8c44817b0c376a99d2019614e0471d3d1a9cb2f40943fec03f05fbf"
-metafile = true
-
-[[files]]
-file = "mods/growthcraft-community-edition.pw.toml"
-hash = "6b49f42361c75ca47d471a06aefc99d858e31c5d650aedb9da5a677c868dcf1d"
 metafile = true
 
 [[files]]

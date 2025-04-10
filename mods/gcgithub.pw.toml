@@ -1,0 +1,7 @@
+name = "GCGithub"
+filename = "growthcraft-1.20.1-9.2.1.jar"
+
+[download]
+url = "https://github.com/GrowthcraftCE/Growthcraft-1.20/releases/download/9.2.1-rc5/growthcraft-1.20.1-9.2.1.jar"
+hash-format = "sha256"
+hash = "5db88f587bb564e4372639899fed582bcc65a6cc12e30516173ddedcc56bfa12"
