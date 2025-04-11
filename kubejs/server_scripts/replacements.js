@@ -7,6 +7,7 @@ const plastics = [
 plastics.forEach(plastic => {
 	event.add('forge:plastics',plastic)
 })
+event.add('forge:ingots/steel','tfmg:steel_ingot')
 })
 
 ServerEvents.recipes(event => {
@@ -26,7 +27,7 @@ event.shaped('mekanism:metallurgic_infuser', [
  'ROR',
  'SBS'
 ], {
- S: 'tfmg:steel_ingot',
+ S: '#forge:ingots/steel',
  B: 'minecraft:blast_furnace',
  R: 'minecraft:redstone',
  O: 'mekanism:block_osmium'
@@ -37,7 +38,7 @@ event.shaped('mekanism:steel_casing', [
  'POP',
  'SPS'
 ], {
- S: 'tfmg:steel_ingot',
+ S: '#forge:ingots/steel',
  P: 'tfmg:plastic_sheet',
  O: 'mekanism:block_osmium'
 })
@@ -59,7 +60,7 @@ event.shaped('nuclearcraft:manufactory', [
  'FEF',
  'LCL'
 ], {
- L: 'tfmg:lead_ingot',
+ L: '#forge:ingots/lead',
  R: 'minecraft:redstone',
  F: 'minecraft:flint',
  E: 'mekanism:enrichment_chamber',
@@ -71,9 +72,9 @@ event.shaped('ae2:inscriber', [
 'CNC',
 'SSS'
 ], {
- S: 'tfmg:steel',
+ S: '#forge:ingots/steel',
  C: 'create:sticky_mechanical_piston',
- N: 'mekanism:control_circuit/ultimate'
+ N: 'mekanism:ultimate_control_circuit'
 })
 
 event.shaped(

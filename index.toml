@@ -40814,7 +40814,7 @@ hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
 
 [[files]]
 file = "kubejs/server_scripts/replacements.js"
-hash = "b62d01878fa0e11601d3cdf3313763b974b99da0c122d02c76bec23a3c6f515e"
+hash = "7e25c31db281a995bb1251ad817fd7205fb1a34ee3842f9bce61a97884bcd52c"
 
 [[files]]
 file = "kubejs/server_scripts/scalp.js"
@@ -41036,6 +41036,11 @@ metafile = true
 [[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "0ba2a01934d2de588071ac5a5281dd9a29fc46166fe6b9f99a809a70fe1a6668"
+metafile = true
+
+[[files]]
+file = "mods/extreme-sound-muffler.pw.toml"
+hash = "b9a1d50cafe823e1d42cb66a530529ecdade140c478864207544f8f0f5451f85"
 metafile = true
 
 [[files]]
