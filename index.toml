@@ -41555,7 +41555,7 @@ metafile = true
 
 [[files]]
 file = "mods/tfmg-fix.jar"
-hash = "0da91c14dedbe51e10239436f3f4c015ff1c4c1d6207188dea395d0102d459cd"
+hash = "97d1d05e39d9a837045ea3b4738410cab032a8eb05a24b6fcb41044253fd5e47"
 
 [[files]]
 file = "mods/tfmg-fix.pw.toml"
