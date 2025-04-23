@@ -4,7 +4,7 @@
   "amountMin": 8.0,
   "biomeWhitelist": ["minecraft:plains","minecraft:savanna"],
   "icon": {
-    "item": "nuclearcraft.platinum_chunk"
+    "item": "nuclearcraft:platinum_chunk"
   },
   "name": "{\"translate\":\"item.nuclearcraft.platinum_chunk\"}",
   "placement": {

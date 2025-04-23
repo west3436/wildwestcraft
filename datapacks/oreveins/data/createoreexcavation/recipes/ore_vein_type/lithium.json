@@ -4,7 +4,7 @@
   "amountMin": 8.0,
   "biomeWhitelist": "minecraft:mangrove_swamp",
   "icon": {
-    "item": "tfmg.raw_lithium"
+    "item": "tfmg:raw_lithium"
   },
   "name": "{\"translate\":\"item.tfmg.raw_lithium\"}",
   "placement": {

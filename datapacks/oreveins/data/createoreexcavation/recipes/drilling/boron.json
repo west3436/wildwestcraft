@@ -1,11 +1,11 @@
 {
   "type": "createoreexcavation:drilling",
   "drill": {
-    "tag": "createoreexcavation:drills"
+    "tag": "createoreexcavation:diamond_drill"
   },
   "output": [
     {
-      "item": "nuclearcraft.boron_chunk"
+      "item": "nuclearcraft:boron_chunk"
     }
   ],
   "priority": 0,

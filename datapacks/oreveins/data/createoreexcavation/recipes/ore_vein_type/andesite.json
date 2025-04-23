@@ -4,7 +4,7 @@
   "amountMin": 8.0,
   "biomeWhitelist": ["minecraft:badlands"],
   "icon": {
-    "item": "minecraft.andesite"
+    "item": "minecraft:andesite"
   },
   "name": "{\"translate\":\"item.minecraft.andesite\"}",
   "placement": {

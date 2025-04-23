@@ -1,7 +1,7 @@
 {
   "type": "createoreexcavation:drilling",
   "drill": {
-    "tag": "createoreexcavation:drills"
+    "tag": "createoreexcavation:diamond_drill"
   },
   "output": [
     {

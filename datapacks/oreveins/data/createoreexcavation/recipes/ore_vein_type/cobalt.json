@@ -6,7 +6,7 @@
   "icon": {
     "item": "tconstruct:raw_cobalt"
   },
-  "name": "{\"translate\":\"item.tconstruct:raw_cobalt\"}",
+  "name": "{\"translate\":\"item.tconstruct.raw_cobalt\"}",
   "placement": {
     "salt": 1768524180,
     "separation": 8,

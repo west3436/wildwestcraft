@@ -4,7 +4,7 @@
   "amountMin": 8.0,
   "biomeWhitelist": "minecraft:wooded_badlands",
   "icon": {
-    "item": "tfmg.raw_lead"
+    "item": "tfmg:raw_lead"
   },
   "name": "{\"translate\":\"item.tfmg.raw_lead\"}",
   "placement": {

@@ -6,7 +6,7 @@
   "icon": {
     "item": "eidolon:raw_silver"
   },
-  "name": "{\"translate\":\"item.eidolon:raw_silver\"}",
+  "name": "{\"translate\":\"item.eidolon.raw_silver\"}",
   "placement": {
     "salt": 1768524180,
     "separation": 8,

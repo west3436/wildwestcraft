@@ -4,9 +4,9 @@
   "amountMin": 8.0,
   "biomeWhitelist": ["minecraft:plains","minecraft:savanna"],
   "icon": {
-    "item": "mekanism.fluorite_gem"
+    "item": "mekanism:fluorite_gem"
   },
-  "name": "{\"translate\":\"item.mekanism.fluorite_ore\"}",
+  "name": "{\"translate\":\"item.mekanism.fluorite_gem\"}",
   "placement": {
     "salt": 1768524180,
     "separation": 8,

@@ -40778,15 +40778,15 @@ hash = "3940248651afaf0f27adf3709a5ce9ebafff02602a86dfff712d72439183c268"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/andesite.json"
-hash = "eb4c340ed370a86f31c46ae64097350f24a5d1c1509351786902bd370faf5f8c"
+hash = "2a188bbd629009ef47f286d22e56c6377f21828fb62f2a1f8869f21d5318d76c"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/bauxite.json"
-hash = "7ee5b3273aef0fecbcffe945424d9da5df0f5da923f09da4fb97541bc8fcd295"
+hash = "e441c4edf3019ab29a82736c9451f0b4602a1acbfc2768c680810a262dd9fa41"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/boron.json"
-hash = "2cc3a4b9575b57ead354a0fb65b50cdac60546c548e2dde1a4b998281ab3fbde"
+hash = "94b7f78578ceede619f3bd6cdf094fc929d506e8fc99e890bf42028af2ad9e4f"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/coal.json"
@@ -40810,7 +40810,7 @@ hash = "1a5da19a979dcb039c536c40622d7990c86a74cca56721e3a4fb14c4673cb766"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/fluorite.json"
-hash = "bbcccee8b7583b02f006cbee162d89ff7d16eac9249ee737195f437c7dfd4fc2"
+hash = "bdd81fc13b7c81f22ccf0dc9f1e4ceadf0056976cb9565d681e23fd79d938430"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/glowstone.json"
@@ -40819,10 +40819,6 @@ hash = "5a9b410793b642fe1b94744024096e457821cf350bc9a32ba3e0e3c233f4e410"
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/gold.json"
 hash = "fae7ebc19abb9d97d5c92eb4478ab299799c4d11083b0b81b307aeea2c1cc842"
-
-[[files]]
-file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/hardened_diamond.json"
-hash = "840a442072037635f68f3558b0cb44361bb88fa0b22fa8ad5cfb2c20029e11d8"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/iron.json"
@@ -40834,19 +40830,19 @@ hash = "24877ff0cfaae706e21d98d3db551c7e3a23ec1516cab1bde348ce4a10968ccc"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/lead.json"
-hash = "6396a30e023059cf1284022c9c461e3ad69fec78aa8d0953e9f6ad9eb2b36d07"
+hash = "2dc06475d2925903e783d752cd9809d2e40bd209fe38d92bc3c8046c0f0f62cb"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/limestone.json"
-hash = "78f826aba3e4b3cfd6165506f107048734ae675fe77a65d518ce2ca6c596ab15"
+hash = "1b2b5235932ed05abd47dca04e040714d5935d4657526419259407855f156508"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/lithium.json"
-hash = "6879a092145b2c93d1175a9ae1b6103be58672526c003b3bc9eba9fb99f72e21"
+hash = "8320eaf4c683fe38ae3fe2496baae903da5884aa2fbe8250e3309d4013a4a8ba"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/magnesium.json"
-hash = "43d08fd9c29a5ef2ecaa790c5df3cce6b96c69e4b6a0dd455e1054ed8aa35719"
+hash = "ef9023a0ac47e5e92654096412807ca173d599e61c228b5adc0c4902eccfcf5f"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/nether_gold.json"
@@ -40858,15 +40854,15 @@ hash = "d7a0d538379ee734bf684e4b34e0d253a5175f2b044cb98a7e6b6a887156c900"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/nickel.json"
-hash = "b603ecc32431e6c13ba4a7d84804ef8922a0be11ae74b6ecead431c345128a8d"
+hash = "5e761d2ee75148948682a94327cde083e6bef46028a75c8be4fccbe785309fcd"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/osmium.json"
-hash = "f47c2d05fac6066e082451666be7881d0da72ec01ab723df5cf17ba99982b32d"
+hash = "cafe29fe6ab07bd2bc6f70a155d099c4fffabdfb03eb7894541ac15fb5bd88d8"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/platnium.json"
-hash = "bad6086478333eb1aa116b3c95cd5c538e5c81edbbb18edc0073b9fd8fd6df67"
+hash = "8a19775585bc7c06116a40ac6790e1326046aa9eb2dac259952bc7453ce67982"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/quartz.json"
@@ -40878,19 +40874,19 @@ hash = "cc796cfabd782cc42bbbf4aa5fe6824304ec110a513900365e0d6014e08ee388"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/silver.json"
-hash = "b2d551cbc85bdec798cfcbd5ed96a0d794a9e63a1d1ba2668d74620c4d0bb867"
+hash = "170456717b8d10bd62822a9b2ab837731071de8131235c101d67d7b617d45103"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/thorium.json"
-hash = "2a48f05276242ad6cc5e28aff658c6add1efe6df7a83aeca00feb4e52e9c7dc5"
+hash = "45f1f6e59ae4fc209caa390e243b7efd710d1f08bce180dec5ec0c832e1219a8"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/tin.json"
-hash = "8c8f70174ca9db016ac3e27e5c72f6f634c2635db54ba71fb62868c16288f286"
+hash = "36b8a46e9d549a8a02840b06882ba6346b69d7877c290d134ea9c2d401a76903"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/uranium.json"
-hash = "e7fc1b4fe697a27e4d4836c129ade956448a5d3f3baf48807e493490d66eaa1e"
+hash = "6f1e28ed45b325ae4f95c79b0c24b28e2fa33a5ab5329f0425f841ec31ed3e6e"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/zinc.json"
@@ -40898,15 +40894,15 @@ hash = "4f1071a66df3c23b3f4e0c92010ff76efff28981e8b6ede602f14715621cf956"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/ore_vein_type/andesite.json"
-hash = "57dd74e67c7a0d385ce69957a3374d32901805c8949fce7c91e1ccac0d3d28a7"
+hash = "7bc0ce651719ec1a02de8be5d8b78ab6c9700e8af7d3c66f8f37037f07c8bdf3"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/ore_vein_type/bauxite.json"
-hash = "f9d30a4517e4794bffd7851cffdb5b976d7fefb78a4d90c36a826cfcc3b24042"
+hash = "6baed4b3a6bd4064da6b89db0b8f404f97df87ee841b92f15edfa55b7d707547"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/ore_vein_type/boron.json"
-hash = "fbc150c4032ab5fe5d386c5fc0dd0cdfd0bb6e41ce67c337e53a1c7bb68c9ed4"
+hash = "53b8f6c1072fd20d255508b65ff9d3a6e33c8ae28f1f1beb30cda2812a2ab09c"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/ore_vein_type/coal.json"
@@ -40914,7 +40910,7 @@ hash = "b9940fa5b41e1837fac7efaaa4794763d604d3a9944b201ada884d63015d757a"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/ore_vein_type/cobalt.json"
-hash = "ada908f843fa4f310ebf5a7c10a0790ddfa04df3f15268c8dca1d9f25220f757"
+hash = "5373d9b10b327e3beab575b9568be3a32c997acf4593fe6e97ecc8054a3670da"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/ore_vein_type/copper.json"
@@ -40930,7 +40926,7 @@ hash = "070e2de1df05555f749db637af3ab2b3d9fa9e57e9d5fa555240eac0daabd36d"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/ore_vein_type/fluorite.json"
-hash = "f38ab1ef827a0abf63855b6a0ff957ba09dbf3b2c3a64146e648d053e9a44085"
+hash = "2ce38a12a09cf709357d96457a59fff06fc7453121f2f709382ef1ba68112a08"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/ore_vein_type/glowstone.json"
@@ -40939,10 +40935,6 @@ hash = "50821dba5fd552e9ca04d23e41e7d34bbd1ed326360cac036c2edbfad6fd1a4c"
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/ore_vein_type/gold.json"
 hash = "df03be4eb1bf0fdfd99aadee582441a4ca26a8c05f21161297421ac28b1b9990"
-
-[[files]]
-file = "datapacks/oreveins/data/createoreexcavation/recipes/ore_vein_type/hardened_diamond.json"
-hash = "0ef979a7abff5ffc828a9daaf228e5a495a63d1003f44afc9151baf9dc8c7b60"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/ore_vein_type/iron.json"
@@ -40954,19 +40946,19 @@ hash = "480a5688708f43bc6159b1d926524039b3f8e79cb714f6964c09cf33269d2d84"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/ore_vein_type/lead.json"
-hash = "b4a9284c28d5713527f57b7c262553aadb056a04913ffd2ea3756313c0e112d9"
+hash = "89219ae9aa399d2dacdeabf7613d50c2241793278ef56d3efa93fe215f8ab251"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/ore_vein_type/limestone.json"
-hash = "e4d882f5913ab65a734d5de73b0d000a0e7b92b001bae28b2f7f288295855228"
+hash = "f084a3f4efc2caf5c8933271c3e7cdbca1860831c051d36cf8f3427bdb2fdd47"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/ore_vein_type/lithium.json"
-hash = "4cf671eb27fd2353c131f83b0414c619b516f1a40fbd8cd0fb54b10e3aa42a13"
+hash = "828b8817a65e5a49ea2404a7c813c187200cb9a42426d9bb5042c3a0c14696ee"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/ore_vein_type/magnesium.json"
-hash = "e9b9a5abeb29d06b5d74afd9d95e8d20c75fa5dc18b1e8e0e713ad1ea907e0d4"
+hash = "71e307c47f747ada362b6901d5f94d3ad284caca26098c0829763abf37e05ea3"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/ore_vein_type/nether_gold.json"
@@ -40978,15 +40970,15 @@ hash = "b56d7d5a8da5507d9521c2d671c9e2f7cc4d56c95524debcc431884c97d294f3"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/ore_vein_type/nickel.json"
-hash = "3b542acb8b9a3f4c6b0f65ee9ca16823ef287b326b9e861d9cc11df1a3c8ae07"
+hash = "91c87736532ccf495fde97c65d904a02eb8ac7d72fbb5413ff8af69edf29514e"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/ore_vein_type/osmium.json"
-hash = "51d58b9a1cda5b2d0c0e635de23b506ea238cdd45630a12ffb189ddca818cc85"
+hash = "fe3f03a034aa4fe60ed95b7167ca41fa77d329af86cd76c401d7e2878db82236"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/ore_vein_type/platnium.json"
-hash = "1388c5841aec2b41e766575648bcbe60a9dd5349eaa56e2ba66f9341316a9719"
+hash = "cf62e293e70959e703644158ab872bec3aa4d89338b564e15f975def75dc1022"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/ore_vein_type/quartz.json"
@@ -40998,19 +40990,19 @@ hash = "eaecb3f77e71f246e2bfebfbf1db358e46d9213ebea57d683d7bd574f78e905b"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/ore_vein_type/silver.json"
-hash = "a15ccc8978a5483215cc40cc8c72a0e6410ac5796a82e2b0697af458b640fb06"
+hash = "6cef94b46a9d4a73eec957e3733b961e78b36d7cd8d88ba4ebef810de30b6521"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/ore_vein_type/thorium.json"
-hash = "019703f0aba2b170f97ffd36d7f2dccd81d19da62bc9b3d93345a163bb54a244"
+hash = "91e1f23d138704412031e89bfd6be6e148f6901a98ac51bd6f984f9953c53115"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/ore_vein_type/tin.json"
-hash = "ec616876f6212b2b4dc87462bc20688c8c89cb78f237a50e1cde13ad24e3a12a"
+hash = "8224dd8231373bac39041cb657a767a2d156f34cefd21a0a34d6308be527d661"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/ore_vein_type/uranium.json"
-hash = "0c8d75682887d7a52484a3df5aee24ce9edfb755412f408b1b31ca162a29f858"
+hash = "4a48575d9db540457bf877cd8d2e5b77d4438b1cb169e7e369a216e7e0e6eefa"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/ore_vein_type/zinc.json"

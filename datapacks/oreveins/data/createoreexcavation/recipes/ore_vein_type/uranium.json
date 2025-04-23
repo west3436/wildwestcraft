@@ -4,7 +4,7 @@
   "amountMin": 8.0,
   "biomeWhitelist": "minecraft:wooded_badlands",
   "icon": {
-    "item": "nuclearcraft.uranium_chunk"
+    "item": "nuclearcraft:uranium_chunk"
   },
   "name": "{\"translate\":\"item.nuclearcraft.uranium_chunk\"}",
   "placement": {

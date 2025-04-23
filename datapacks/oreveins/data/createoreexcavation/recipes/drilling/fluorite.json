@@ -1,11 +1,11 @@
 {
   "type": "createoreexcavation:drilling",
   "drill": {
-    "tag": "createoreexcavation:drills"
+    "tag": "createoreexcavation:diamond_drill"
   },
   "output": [
     {
-      "item": "mekanism.fluorite_ore"
+      "item": "mekanism:fluorite_gem"
     }
   ],
   "priority": 0,

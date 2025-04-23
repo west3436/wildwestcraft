@@ -4,7 +4,7 @@
   "amountMin": 8.0,
   "biomeWhitelist": "minecraft:is_overworld",
   "icon": {
-    "item": "tfmg.raw_nickel"
+    "item": "tfmg:raw_nickel"
   },
   "name": "{\"translate\":\"item.tfmg.raw_nickel\"}",
   "placement": {

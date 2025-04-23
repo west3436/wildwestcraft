@@ -1,11 +1,11 @@
 {
   "type": "createoreexcavation:drilling",
   "drill": {
-    "tag": "createoreexcavation:drills"
+    "tag": "createoreexcavation:diamond_drill"
   },
   "output": [
     {
-      "item": "tfmg.raw_lithium"
+      "item": "tfmg:raw_lithium"
     }
   ],
   "priority": 0,

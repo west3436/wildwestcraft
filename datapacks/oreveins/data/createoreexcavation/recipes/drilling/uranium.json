@@ -1,11 +1,11 @@
 {
   "type": "createoreexcavation:drilling",
   "drill": {
-    "tag": "createoreexcavation:drills"
+    "tag": "createoreexcavation:diamond_drill"
   },
   "output": [
     {
-      "item": "nuclearcraft.uranium_chunk"
+      "item": "nuclearcraft:uranium_chunk"
     }
   ],
   "priority": 0,

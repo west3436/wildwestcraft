@@ -4,7 +4,7 @@
   "amountMin": 8.0,
   "biomeWhitelist": "minecraft:wooded_badlands",
   "icon": {
-    "item": "nuclearcraft.thorium_chunk"
+    "item": "nuclearcraft:thorium_chunk"
   },
   "name": "{\"translate\":\"item.nuclearcraft.thorium_chunk\"}",
   "placement": {
