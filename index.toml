@@ -40786,7 +40786,7 @@ hash = "e441c4edf3019ab29a82736c9451f0b4602a1acbfc2768c680810a262dd9fa41"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/boron.json"
-hash = "94b7f78578ceede619f3bd6cdf094fc929d506e8fc99e890bf42028af2ad9e4f"
+hash = "f322895cbe94489d6267ecbf01ddd72134580722bad96772251ee910c0e71096"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/coal.json"
@@ -40794,7 +40794,7 @@ hash = "4e380a0879d0b16335e5b63055edb732e72bd19fcc2b27ce2d6170e838532994"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/cobalt.json"
-hash = "9617d166ea67e1d3099f6e7d9e614e7717f368106837f3076ae9bf3c49a33536"
+hash = "df0822681f57530a6c89447c75786cb2a462b4bb9700198ac117b37ac9d9f919"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/copper.json"
@@ -40810,7 +40810,7 @@ hash = "1a5da19a979dcb039c536c40622d7990c86a74cca56721e3a4fb14c4673cb766"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/fluorite.json"
-hash = "bdd81fc13b7c81f22ccf0dc9f1e4ceadf0056976cb9565d681e23fd79d938430"
+hash = "7d45e85c67beb30b5f3a1efd87ea977dc7b33ca04eba2c607a740b4ce8071da2"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/glowstone.json"
@@ -40830,7 +40830,7 @@ hash = "24877ff0cfaae706e21d98d3db551c7e3a23ec1516cab1bde348ce4a10968ccc"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/lead.json"
-hash = "2dc06475d2925903e783d752cd9809d2e40bd209fe38d92bc3c8046c0f0f62cb"
+hash = "b83da23c8bb78dc272609c996cf2ef29feb5e8f131719b3fee7665c29492e728"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/limestone.json"
@@ -40838,11 +40838,11 @@ hash = "1b2b5235932ed05abd47dca04e040714d5935d4657526419259407855f156508"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/lithium.json"
-hash = "8320eaf4c683fe38ae3fe2496baae903da5884aa2fbe8250e3309d4013a4a8ba"
+hash = "1fed5f2ff9dde2d814e309a9f648908a1dd8cfc080d1ae75d0c777d29f7912b3"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/magnesium.json"
-hash = "ef9023a0ac47e5e92654096412807ca173d599e61c228b5adc0c4902eccfcf5f"
+hash = "fd34f936b0b4e412cdae1b68662d8a70fafc70ac081be78748ad17b8684bce89"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/nether_gold.json"
@@ -40854,15 +40854,15 @@ hash = "d7a0d538379ee734bf684e4b34e0d253a5175f2b044cb98a7e6b6a887156c900"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/nickel.json"
-hash = "5e761d2ee75148948682a94327cde083e6bef46028a75c8be4fccbe785309fcd"
+hash = "9c24d929fde363ece22c9592816c2cbe559f8c1308043296b4ca002681a7587f"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/osmium.json"
-hash = "cafe29fe6ab07bd2bc6f70a155d099c4fffabdfb03eb7894541ac15fb5bd88d8"
+hash = "9f598f0956345a9c74890bb5a1c5fdffdc541a6094977ab1fa6513ee3ed5f9e8"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/platnium.json"
-hash = "8a19775585bc7c06116a40ac6790e1326046aa9eb2dac259952bc7453ce67982"
+hash = "3b8b721c78b36e78fb1d9ca361e414ea071caaceb6493f711098700914319b61"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/quartz.json"
@@ -40874,11 +40874,11 @@ hash = "cc796cfabd782cc42bbbf4aa5fe6824304ec110a513900365e0d6014e08ee388"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/silver.json"
-hash = "170456717b8d10bd62822a9b2ab837731071de8131235c101d67d7b617d45103"
+hash = "8d4f3b8dc2956f670f0d54642a440043469b3ca73258ad9d8515103b102e0755"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/thorium.json"
-hash = "45f1f6e59ae4fc209caa390e243b7efd710d1f08bce180dec5ec0c832e1219a8"
+hash = "167f781fe6a69f344f00c3bf81cce0975fbfdbd2b58b705449f640ab22f78f8c"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/tin.json"
@@ -40886,7 +40886,7 @@ hash = "36b8a46e9d549a8a02840b06882ba6346b69d7877c290d134ea9c2d401a76903"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/uranium.json"
-hash = "6f1e28ed45b325ae4f95c79b0c24b28e2fa33a5ab5329f0425f841ec31ed3e6e"
+hash = "0dcd0a6a6e671c4b4665f59b1a465fd5e1e40c9e33d703fc2e6c1059a810b0a2"
 
 [[files]]
 file = "datapacks/oreveins/data/createoreexcavation/recipes/drilling/zinc.json"
