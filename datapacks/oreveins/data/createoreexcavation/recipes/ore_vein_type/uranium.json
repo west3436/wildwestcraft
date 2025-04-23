@@ -1,0 +1,16 @@
+{
+  "type": "createoreexcavation:vein",
+  "amountMax": 24.0,
+  "amountMin": 8.0,
+  "biomeWhitelist": "minecraft:wooded_badlands",
+  "icon": {
+    "item": "nuclearcraft.uranium_chunk"
+  },
+  "name": "{\"translate\":\"item.nuclearcraft.uranium_chunk\"}",
+  "placement": {
+    "salt": 1768524180,
+    "separation": 4,
+    "spacing": 8
+  },
+  "priority": 0
+}
