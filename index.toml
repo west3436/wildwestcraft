@@ -41220,6 +41220,11 @@ hash = "ab763f7759380850ae7939f8c69d1b2e123a84e7ace88c2bf86af521dbd55d75"
 metafile = true
 
 [[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "6d638c317700b3ab4dd825611c979dd6284e4017e4505a43b5537b2226009fcf"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "04eff00e4383097d9809dec31ab08976a4516fd5a2fe348b88a532507f68e6ba"
 metafile = true
